@@ -2,11 +2,7 @@
 title: "Web Mapping with R"
 author: "Jaimy Fischer"
 date: "22/02/2022"
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+output: html_document
 ---
 
 ## Web Mapping with Leaflet
@@ -121,7 +117,7 @@ t5
 
 The aesthetic tweaks can be endless! So let's add some data into this mix!
 
-##Adding Data to Your Webmap
+## Adding Data to Your Webmap
 
 Lets try a WMS tile. Let's pull [Recreational Trails](https://catalogue.data.gov.bc.ca/dataset/recreation-line) from the BC Open Data Catalogue.
 
