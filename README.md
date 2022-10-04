@@ -1,4 +1,4 @@
-Welcome! This repo was made for the [SFU Library Research Commons Web Mapping with R workshop (June 20, 2022)](https://www.lib.sfu.ca/find/other-materials/data-gis/gis/37193). <br>
+Welcome! This repo was made for the [SFU Library Research Commons Web Mapping with R workshop (October 6, 2022)](https://www.lib.sfu.ca/find/other-materials/data-gis/gis/37423). <br>
 <br>
 You can download the materials for the workshop from the main folder by clicking the **Code** button then select **"Download ZIP"**, easy! <br>
 <br>
@@ -9,7 +9,7 @@ This repository contains information licensed under the Open Government Licence 
 Datasets used: Local area boundary https://opendata.vancouver.ca/explore/dataset/local-area-boundary/information/?location=13,49.2474,-123.12402<br>
 <br>
 **R Version used**<br>
-R version 4.0.5 "Shake and Throw"
+R version 4.2.1 
 <br>
 <br>
 **R Packages required**<br>
