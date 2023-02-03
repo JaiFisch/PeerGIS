@@ -1,4 +1,4 @@
-Welcome! This repo was made for the [SFU Library Research Commons Web Mapping with R workshop (October 6, 2022)](https://www.lib.sfu.ca/find/other-materials/data-gis/gis/37423). <br>
+Welcome! This repo was made for the [SFU Library Research Commons Web Mapping with R workshop (February 3, 2023)]([https://www.lib.sfu.ca/find/other-materials/data-gis/gis/37423](https://www.lib.sfu.ca/find/other-materials/data-gis/gis/37719)). <br>
 <br>
 You can download the materials for the workshop from the main folder by clicking the **Code** button then select **"Download ZIP"**, easy! <br>
 <br>
